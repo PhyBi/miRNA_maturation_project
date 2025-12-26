@@ -1,4 +1,4 @@
-# miRNA_maturation_project
+# miRNA-maturation-project
 This repository contains a Fortran 90 code (miRNA_maturation_project.f90), regarding the Gillespie simulation (Stochastic simulation) for time evolution of 'miRNA-mediated negative feedback loop' in the manuscript, "Effects of microRNA-mediated negative feedback on gene expression noise", Raunak Adhikary1, Dipjyoti Das1*
 
 1 Department of Biological Sciences, Indian Institute of Science Education and Research Kolkata, Mohanpur, Nadia, West Bengal, 741246, India.
